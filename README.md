@@ -1,1 +1,1 @@
-# Hand_Gesture_Detection
+It is my Mini project for my college syllabus 
